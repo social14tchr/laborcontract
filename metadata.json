@@ -1,0 +1,6 @@
+{
+  "name": "청소년 근로권 학습 및 표준근로계약서 작성 시뮬레이터",
+  "description": "통합사회 청소년 근로권 보호 법률 학습 및 18세 미만 연소근로자 표준근로계약서 작성·법률 진단·전자서명 실습 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
